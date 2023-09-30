@@ -1,3 +1,9 @@
+### Manual ###
+.venv-*/
+.DS_Store
+
+
+### Generated for python project ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
